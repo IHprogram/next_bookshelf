@@ -9,6 +9,7 @@ djangorestframework==3.11.1
 djangorestframework-simplejwt==4.6.0
 djoser==2.0.3
 gunicorn @ file:///opt/concourse/worker/volumes/live/f958ac2d-63e5-4751-6df7-f751b636b35e/volume/gunicorn_1617120640046/work
+pipdeptree==2.1.0
 psycopg2 @ file:///opt/concourse/worker/volumes/live/d12e789f-5b6c-4947-7cc2-187f3a9c9696/volume/psycopg2_1612298599991/work
 PyJWT==2.1.0
 python-decouple==3.4
